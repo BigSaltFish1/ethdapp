@@ -1,0 +1,3 @@
+[submodule "solidity/openzeppelin-contracts"]
+	path = solidity/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
